@@ -11,7 +11,14 @@ The project attempts to evaluate and compare prediction capabilites of text (as 
 - volatility (up/same or down) by means of daily news
 - volatility by means of technical indicators.
 
+![Project structure](https://github.com/DennisBuxmann/Capstone_Project/blob/master/images/project_structure.jpg)
 
+## Data
+In this project the data provided by Aaron7sun and uploaded to [Kaggle](https://www.kaggle.com/aaron7sun/stocknews) has been used. In particular the data include two sets:
+- News data: historical news headlines crawled from Reddit WorldNews Channel (/r/worldnews). They are ranked by reddit users' votes, and only the top 25 headlines are considered for a single date.
+(Range: 2008-06-08 to 2016-07-01)
+- Stock data: Dow Jones Industrial Average (DJIA) is used to "prove the concept".
+(Range: 2008-08-08 to 2016-07-01).
 
-
+## Main notebook content
 
