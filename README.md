@@ -1,4 +1,17 @@
 # Capstone_Project: Predicting market reaction and volatility based on daily news and technical indicators
 
 ## Introduction
-This repository contains the notebook for my capstone project as part of the bootcamp with 'neue fische' in Feb-May 2020. 
+This repository contains the notebook for project conducted as part of the data-science bootcamp with 'neue fische' in Hamburg from February till May 2020.
+
+## Description
+The project attempts to evaluate and compare prediction capabilites of text (as represented by Top 25 daily worldnews headlines) and technical indicators (such as Stoch_%K, Stoch_%D, Momentum, and other) as applied to predicting the index price movement as well as its volatility. In a nutshell the four estimation attmepts include, predicting:
+
+- price movement (up/same or down) by means of daily news
+- price movement by means of technical indicators
+- volatility (up/same or down) by means of daily news
+- volatility by means of technical indicators.
+
+
+
+
+
