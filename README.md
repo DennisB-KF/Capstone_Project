@@ -20,5 +20,6 @@ In this project the data provided by Aaron7sun and uploaded to [Kaggle](https://
 - Stock data: Dow Jones Industrial Average (DJIA) is used to "prove the concept".
 (Range: 2008-08-08 to 2016-07-01).
 
-## Main notebook content
+## Techniques used
+'python'
 
