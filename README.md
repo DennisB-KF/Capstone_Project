@@ -1,6 +1,6 @@
 # Capstone_Project: Predicting market reaction and volatility based on daily news and technical indicators
 
-## Introduction
+## Background
 This repository contains the notebook for project conducted as part of the data-science bootcamp with 'neue fische' in Hamburg from February till May 2020.
 
 ## Description
@@ -21,5 +21,4 @@ In this project the data provided by Aaron7sun and uploaded to [Kaggle](https://
 (Range: 2008-08-08 to 2016-07-01).
 
 ## Techniques used
-'python'
-
+`Python` `NamPy` `Pandas` `Sklearn` `Word2Vec` `RegEx` `beatifulsoup` `Maptplotlib` `Seaborn` `Support Vector Machines` `Random Forest` `XGBoost`
