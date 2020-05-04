@@ -22,3 +22,8 @@ In this project the data provided by Aaron7sun and uploaded to [Kaggle](https://
 
 ## Techniques used
 `Python` `NamPy` `Pandas` `Sklearn` `Word2Vec` `RegEx` `beatifulsoup` `Maptplotlib` `Seaborn` `Support Vector Machines` `Random Forest` `XGBoost`
+
+## Results
+
+
+## Future work
