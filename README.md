@@ -11,7 +11,7 @@ The project attempts to evaluate and compare prediction capabilites of text (as 
 - volatility (up/same or down) by means of daily news
 - volatility by means of technical indicators.
 
-![Project structure](https://github.com/DennisBuxmann/Capstone_Project/blob/master/images/project_structure.jpg)
+![Project structure](https://github.com/DennisBuxmann/Capstone_Project/blob/master/images/project_structure1.jpg)
 
 ## Data
 In this project the data provided by Aaron7sun and uploaded to [Kaggle](https://www.kaggle.com/aaron7sun/stocknews) has been used. In particular the data include two sets:
