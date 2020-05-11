@@ -24,6 +24,14 @@ In this project the data provided by Aaron7sun and uploaded to [Kaggle](https://
 `Python` `NumPy` `Pandas` `Sklearn` `Word2Vec` `RegEx` `beatifulsoup` `Maptplotlib` `Seaborn` `Random Forest` `XGBoost`
 
 ## Results
+- Prediction of price movement provides unreliably low results
+- But text as input performs better than technical indicators on price movement
+- Technical indicators achieve much higher accuracy of volatility level prediction, however
 
 ![Results](https://github.com/DennisB-KF/Capstone_Project/blob/master/images/Results.PNG)
 ## Future work
+- Apply hourly or lower frequency news stream
+- Utilize financial news
+- Focus on a single stock instead of an index
+- Training of vocabulary on Glove
+- Neural Networks application
